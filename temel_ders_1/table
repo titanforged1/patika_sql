@@ -1,0 +1,61 @@
+1.CREATE TABLE employee (
+	id INTEGER PRIMARY KEY ,
+	name VARCHAR(50),
+	email VARCHAR(100),
+	birthday DATE
+);
+2.insert into author (name, email, birthday) values ('Sollie', 'spostgate0@auda.org.au', null);
+insert into author (name, email, birthday) values ('Worden', 'wlasselle1@scribd.com', '1972-10-13');
+insert into author (name, email, birthday) values ('Ronni', 'rtoner2@about.com', '1972-07-12');
+insert into author (name, email, birthday) values ('Vladimir', 'vdummigan3@nbcnews.com', '1989-12-17');
+insert into author (name, email, birthday) values ('Gabe', 'gtottie4@bandcamp.com', '1942-01-24');
+insert into author (name, email, birthday) values ('Berty', 'bkleinplac5@ucla.edu', '1943-12-02');
+insert into author (name, email, birthday) values ('Darin', 'dmulran6@cam.ac.uk', '1979-08-28');
+insert into author (name, email, birthday) values ('Terrill', 'tweippert7@usa.gov', '1932-03-14');
+insert into author (name, email, birthday) values ('Brandy', 'bhagergham8@apple.com', '1975-12-07');
+insert into author (name, email, birthday) values ('Lucio', 'lpeattie9@unc.edu', '1938-08-22');
+insert into author (name, email, birthday) values ('Annora', 'aarstingalla@omniture.com', '1935-10-10');
+insert into author (name, email, birthday) values ('Isidoro', 'ikirmondb@umich.edu', null);
+insert into author (name, email, birthday) values ('Jule', 'jspinksc@i2i.jp', '1908-10-15');
+insert into author (name, email, birthday) values ('Adriana', null, '1992-12-12');
+insert into author (name, email, birthday) values ('Cissiee', 'cghione@flavors.me', '1955-10-20');
+insert into author (name, email, birthday) values ('Rois', 'rboweryf@jigsy.com', '1983-01-21');
+insert into author (name, email, birthday) values ('Camella', 'calgateg@indiegogo.com', '1913-03-20');
+insert into author (name, email, birthday) values ('Vaughan', 'vduboish@google.ru', '1941-02-04');
+insert into author (name, email, birthday) values ('Shelly', 'schartresi@nhs.uk', '1907-09-20');
+insert into author (name, email, birthday) values ('Gui', 'gdixonj@bravesites.com', '1919-04-27');
+insert into author (name, email, birthday) values ('Dalton', 'dredmirek@phoca.cz', '1975-01-06');
+insert into author (name, email, birthday) values ('Elinor', 'etoffalonil@naver.com', '1939-05-18');
+insert into author (name, email, birthday) values ('Rachael', 'rheinickem@google.es', '1977-01-26');
+insert into author (name, email, birthday) values ('Hilario', 'hfrentzn@creativecommons.org', '1907-06-01');
+insert into author (name, email, birthday) values ('Marj', 'msoggo@mozilla.org', '1971-01-22');
+insert into author (name, email, birthday) values ('Mureil', 'mchalfantp@lycos.com', null);
+insert into author (name, email, birthday) values ('Amory', 'aneseyq@jugem.jp', '1936-06-12');
+insert into author (name, email, birthday) values ('Kimberly', 'kshawyersr@elegantthemes.com', '1963-06-02');
+insert into author (name, email, birthday) values ('Evonne', null, '1925-07-26');
+insert into author (name, email, birthday) values ('Teressa', 'tczajat@army.mil', '1921-04-03');
+insert into author (name, email, birthday) values ('Harriette', 'hnurseu@toplist.cz', '1922-03-14');
+insert into author (name, email, birthday) values ('Calvin', 'cfochsv@gnu.org', '1902-08-17');
+insert into author (name, email, birthday) values ('Lyon', 'ltorricellaw@pinterest.com', '1954-11-27');
+insert into author (name, email, birthday) values ('Delilah', 'dwahnerx@independent.co.uk', '1995-11-18');
+insert into author (name, email, birthday) values ('Zorina', 'zwebborny@tripod.com', null);
+insert into author (name, email, birthday) values ('Regen', 'rtawsez@dedecms.com', '1925-06-06');
+insert into author (name, email, birthday) values ('Ciro', 'cchurchyard10@time.com', '1903-09-25');
+insert into author (name, email, birthday) values ('Juli', 'jdonizeau11@apple.com', null);
+insert into author (name, email, birthday) values ('Padgett', 'pissitt12@hud.gov', '1952-02-08');
+insert into author (name, email, birthday) values ('Clari', null, '1996-06-27');
+insert into author (name, email, birthday) values ('Ulrikaumeko', null, '1990-10-20');
+insert into author (name, email, birthday) values ('Kennedy', 'ktuffrey15@constantcontact.com', '1992-03-15');
+insert into author (name, email, birthday) values ('Thebault', 'tmckimmey16@de.vu', '1986-02-11');
+insert into author (name, email, birthday) values ('Marjy', 'mcowerd17@uol.com.br', '1932-09-24');
+insert into author (name, email, birthday) values ('Kendrick', 'khalbord18@ehow.com', '1934-01-13');
+insert into author (name, email, birthday) values ('Claire', 'cschust19@archive.org', '1930-08-01');
+insert into author (name, email, birthday) values ('Genevieve', 'gbarham1a@fc2.com', '1976-02-19');
+insert into author (name, email, birthday) values ('Truda', null, null);
+insert into author (name, email, birthday) values ('Daveta', 'driguard1c@google.ru', '1942-11-08');
+insert into author (name, email, birthday) values ('Jason', 'jfendt1d@mediafire.com', '1907-05-25');
+
+
+
+
+3.
